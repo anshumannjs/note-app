@@ -2,7 +2,7 @@
   "name": "note-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anshumannjs.github.io",
+  "homepage": "https://anshumannjs.github.io/note-app",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
