@@ -12,6 +12,7 @@ function App() {
     <BrowserRouter>
     <NoteState>
     <div className="App flex">
+      <Link to={'/'}><Button>Home</Button></Link>
       <Routes>
       <Route path='/' element={<NoteList></NoteList>}/>
       <Route path='/editor' element={<Editor></Editor>}/>
