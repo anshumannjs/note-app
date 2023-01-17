@@ -98,7 +98,7 @@ export default function Editor() {
 
   const navigate=useNavigate();
   function back(){
-    navigate("/");
+    navigate("/note-app");
   }
 
   return (
